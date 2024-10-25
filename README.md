@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
+![logo](https://github.com/marcdanielfalsado/marcdanielfalsado/blob/main/JOURNAL.png?raw=true)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Marc Daniel Falsado</h1>
@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at my site()
+- 👨‍💻 All of my projects are available at my site
 
 - 💬 Ask me about **Java, Python, PHP and NodeJS**
 
@@ -49,17 +49,17 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://fb.com/marcfalsado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://www.instagram.com/edp_soc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@teshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
+<a href="https://fb.com/marcfalsado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marcfalsado" height="30" width="40" /></a>
+<a href="https://www.instagram.com/edp_soc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edp_soc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@teshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marc daniel falsado" height="30" width="40" /></a>
 </p>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools (kinda mastered, & learning some of it):</h3>
+<h3 align="left">Languages and Tools (learned the fundamentals, but I'm still learning the majority of it):</h3>
 
 - Backend
 <p align="left">
