@@ -59,7 +59,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools (kinda mastered, & learning some of it):</h3>
 
 - Backend
 <p align="left">
