@@ -34,9 +34,9 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **algo**
 
-- 👨‍💻 All of my projects are available at my site
+- 👨‍💻 All of my projects are available at my portfolio
 
 - 💬 Ask me about **Java, Python, PHP and NodeJS**
 
@@ -44,7 +44,7 @@
 
 - 📄 Know about my experiences [my experiences]()
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **i think im idk**
 
 <br>
 <h3 align="left">Connect with me:</h3>
